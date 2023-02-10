@@ -47,6 +47,9 @@ Install using 'pip'...
     4. pip install matplotlib
     5. pip install pandas
 
+## Dataset
+The datset here named Energy Readings has been prepared in real time using IOT sensors. Here, the time column represent the time in seconds at which data from IOT sensors reach the cloud . And the power is given in terms of Watt.
+
 ## Execution
 You can directly run the .ipynb file in Jupiter notebook, only after modifying the path of the existing data set in local system and all the requirements being correctly met.
 
