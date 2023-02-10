@@ -12,7 +12,7 @@ IOT sensors have been used to collect the raw data to cloud and  the entire proj
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://user-images.githubusercontent.com/94059815/218089410-a8434a15-43a3-4fb8-b9f7-872e560503d0.png)
 
 
 ## Requirements
