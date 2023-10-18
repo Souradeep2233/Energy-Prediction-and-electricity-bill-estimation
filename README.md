@@ -58,4 +58,5 @@ You can also use the weights provided in .pt file , by intialising an instance t
 
 The code has been solely developed by Souradeep Dutta , an aspiring machine learning enginner and researcher.
 Kindly share your feedback and do contribute and suggest for better performance of the model and mutual development 😊.
+However the IoT data and sensors have been designed and controlled as a team .
 
